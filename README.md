@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/X-starRelight"><img src="https://img.shields.io/badge/GitHub-@X-starRelight-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://space.bilibili.com/1532090388"><img src="https://img.shields.io/badge/BiliBili-星燃_X-starRelight-00A1D6?style=for-the-badge&logo=bilibili" /></a>
+  <a href="https://github.com/X-starRelight"><img src="https://img.shields.io/badge/GitHub-@X_starRelight-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://space.bilibili.com/1532090388"><img src="https://img.shields.io/badge/BiliBili-星燃_X_starRelight-00A1D6?style=for-the-badge&logo=bilibili" /></a>
   <a href="https://ifdian.net/a/sxxyrry_ttxr"><img src="https://img.shields.io/badge/爱发电-赞助支持-946CE6?style=for-the-badge&logo=buymeacoffee" /></a>
   <a href="https://www.sxxyrry.qzz.io"><img src="https://img.shields.io/badge/Website-个人网站-3B82F6?style=for-the-badge&logo=vercel" /></a>
   <a href="https://tt23xr.sxxyrry.qzz.io"><img src="https://img.shields.io/badge/Website-工作室官网-3B82F6?style=for-the-badge&logo=vercel" /></a>
