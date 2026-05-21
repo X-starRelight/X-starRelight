@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=✨+是星星与然然呀+✨;星辰为引，落英编程;把兴趣玩出名堂" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=✨+星燃_X-starRelight+✨;欣喜依然，星河仍燃。" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sxxyrry"><img src="https://img.shields.io/badge/GitHub-@sxxyrry-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://space.bilibili.com/1532090388"><img src="https://img.shields.io/badge/BiliBili-TT23XR_Studio-00A1D6?style=for-the-badge&logo=bilibili" /></a>
+  <a href="https://github.com/X-starRelight"><img src="https://img.shields.io/badge/GitHub-@sxxyrry-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://space.bilibili.com/1532090388"><img src="https://img.shields.io/badge/BiliBili-星燃_X-starRelight-00A1D6?style=for-the-badge&logo=bilibili" /></a>
   <a href="https://ifdian.net/a/sxxyrry_ttxr"><img src="https://img.shields.io/badge/爱发电-赞助支持-946CE6?style=for-the-badge&logo=buymeacoffee" /></a>
   <a href="https://www.sxxyrry.qzz.io"><img src="https://img.shields.io/badge/Website-个人网站-3B82F6?style=for-the-badge&logo=vercel" /></a>
   <a href="https://tt23xr.sxxyrry.qzz.io"><img src="https://img.shields.io/badge/Website-工作室官网-3B82F6?style=for-the-badge&logo=vercel" /></a>
@@ -17,7 +17,7 @@
 
 嘿，我是 **星燃_X-starRelight**（叫我 XR 就好）——一名写代码也写诗的初中生。
 
-> “星辰为引，落英编程，把兴趣玩出名堂。”
+> “欣喜依然，星河仍燃。”
 
 - **TT23XR 工作室** 室长 · 全栈开发者 · 学生创业者
 - 正在用 **Rust**（ AI 辅助实现） 重写世界，用 **Vue**/**Web**/**NodeJS/TS** 描绘想法
@@ -110,12 +110,12 @@
 ### GitHub 统计 | Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxxyrry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxyrry&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=X-starRelight&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-starRelight&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sxxyrry&theme=onedark&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=X-starRelight&theme=onedark&column=7&margin-w=15" />
 </p>
 
 ---
@@ -125,13 +125,13 @@
 - **个人网站**：[www.sxxyrry.qzz.io](https://www.sxxyrry.qzz.io)
 - **文档官网**：[docss.sxxyrry.qzz.io](https://docss.sxxyrry.qzz.io)
 - **工作室官网**：[tt23xr.sxxyrry.qzz.io](https://tt23xr.sxxyrry.qzz.io)
-- **B站**：[@是星星与然然呀](https://space.bilibili.com/1532090388)
+- **B站**：[@星燃_X-starRelight](https://space.bilibili.com/1532090388)
 - **爱发电**：[赞助支持](https://ifdian.net/a/sxxyrry_ttxr)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sxxyrry&label=星辰访客&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=X-starRelight&label=星河访客&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
